@@ -1,0 +1,18 @@
+.custom-container {
+    margin: 5vh 15vw !important;
+    text-align: center;
+}
+.blog-page-cover {
+    max-width: 70vw;
+    width: 50%;
+}
+.blog-content {
+    text-align: justify;
+}
+.change-post-color {
+    color: #5aa469  ;
+}
+.social-networks {
+    color: black;
+    margin-top: 1em;
+}

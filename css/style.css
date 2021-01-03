@@ -1,0 +1,12 @@
+/* Navbar Style */
+@import "navbar.css";
+/* posts container */
+@import "blogMain.css";
+/* Post Style */
+@import "blogPost.css";
+/*Footer Style*/
+@import "footer.css";
+/* shared style*/
+.padding-10px {
+    padding: 10px;
+}
