@@ -22,3 +22,15 @@
     height: 50px;
     border-radius: 50%;
 }
+@media screen and (max-width: 1280px) {
+    .blog-page-cover {
+        width: 100%;
+    }
+    .blog-grid-container {
+        grid-template-columns: auto auto;
+        margin: 5vh 15vw;
+    }
+    .blog-post {
+            grid-column: 1 / span 2;
+    }
+}
