@@ -7,6 +7,15 @@ a {
     grid-gap: 1rem;
     margin: 5vh 12vw;
 }
+.older-posts-grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 1rem;
+    margin: 5vh 12vw;
+}
+.older-posts-title-alignment {
+    text-align: center;
+}
 .blog-post {
     min-height: 50vh;
     text-align: center;
